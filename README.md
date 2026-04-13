@@ -23,9 +23,9 @@ Each assignment is implemented in a separate Python file for modularity and clar
 ```bash
 Image-Processing-Assignment/
 │
-├── Assignment1.py
-├── Assignment2.py
-├── Assignment3.py
-├── Assignment4.py
-├── Assignment5.py
+├── Assignment_1.py
+├── Assignment_2.py
+├── Assignment_3.py
+├── Assignment_4.py
+├── Assignment_5.py
 └── README.md
